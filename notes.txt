@@ -1,0 +1,8 @@
+Agile 7.86
+	6.5 sonar
+	10 jenkins
+	7.3 test
+	7.3 jira
+	8 posits
+
+projecteUp 7.5
